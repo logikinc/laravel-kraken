@@ -1,6 +1,6 @@
 {
-  "name": "danvuquoc/laravel-kraken",
-  "description": "A minimal service provider to set up and use the Kraken API PHP library in Laravel 5",
+  "name": "logikinc/laravel-kraken",
+  "description": "A minimal service provider to set up and use the Kraken API PHP library in Laravel 5.7",
   "keywords": ["laravel", "kraken"],
   "license": "MIT",
   "require": {
